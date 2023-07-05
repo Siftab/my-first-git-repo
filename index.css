@@ -1,0 +1,38 @@
+*{font-family: 'Courier New', Courier, monospace;}
+body{
+    background-image:url(/photo-1599070221195-bf2801877d7e.jpg );
+    background-size: contain;
+    background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+    
+}
+header{ padding: 50px;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 130px;
+    font-weight: bolder;
+    color: aliceblue;
+}
+input{
+    font-size: 35px;
+    border-radius: 10px;
+   
+}
+.login{text-align: center;
+font-size:34px;
+font-weight: bolder;}
+
+div{ background-position: center;
+     border: solid white;
+    border-width: 5px;
+    padding: 80px 50px 70px 50px;
+   margin: 15% 35%;
+   display: inline-block;
+   border-radius: 15px;
+}
+p{text-align: center;}
+label{font-size: large;
+font-weight: bolder;}
+
+
